@@ -1,3 +1,7 @@
+# Webpack Encore zero downtime deploy plugin
+
+## Installation
+
 1. Add plugin
 
 ```
